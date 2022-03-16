@@ -5,7 +5,7 @@
 
 
 # ScreenShots
-![](pic1.png)
+![](pic2.png)
 
 ## Built With
 - HTML
