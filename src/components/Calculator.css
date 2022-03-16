@@ -1,0 +1,38 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 2px;
+  background-color: rgb(164, 164, 164);
+  padding: 2px;
+  margin: 10px;
+}
+
+.grid-container > div {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+
+.item17 {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
+.item0 {
+  grid-column-start: 1;
+  grid-column-end: 5;
+  background-color: rgb(164, 164, 164) !important;
+  color: white;
+  text-align-last: right;
+  margin-right: 2px;
+}
+
+.item4,
+.item8,
+.item12,
+.item16,
+.item19 {
+  background-color: rgb(255, 81, 0) !important;
+  color: white;
+}
