@@ -4,13 +4,15 @@
 > This is a basic calculator project using basic React.
 
 
-# ScreenShots
-![](pic2.png)
+# GIF
+![](calc.gif)
 
 ## Built With
-- HTML
 - Javascript
 - React
+- CSS
+- Stylelint
+- ESlint
 - VScode
 
 ## Live Demo
