@@ -8,9 +8,10 @@
 ![](calc.gif)
 
 ## Built With
-- HTML
 - Javascript
 - React
+- Stylelint
+- ESlint
 - VScode
 
 ## Live Demo
