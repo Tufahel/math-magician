@@ -10,6 +10,7 @@
 ## Built With
 - Javascript
 - React
+- CSS
 - Stylelint
 - ESlint
 - VScode
