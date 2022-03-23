@@ -1,11 +1,11 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Title-Info
-> This is a basic calculator project using basic React.
+> Math-Magician is a calculator app where we can perform basic math calculations such as addition, substruction, division, multiplication, modulo, etc.
 
 
 # GIF
-![](calc.gif)
+![](calc1.gif)
 
 ## Built With
 - Javascript
@@ -14,6 +14,7 @@
 - Stylelint
 - ESlint
 - VScode
+- Netlify
 
 ## Live Demo
 For the link to the live demo, [Click here](https://festive-yalow-42762f.netlify.app/)
@@ -47,9 +48,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
 
 ## 📝 License
 
