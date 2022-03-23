@@ -1,0 +1,30 @@
+ul {
+  list-style: none;
+}
+
+.header {
+  font-size: 40px;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 20px;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  font-size: 25px;
+  color: white;
+}
+
+.link {
+  color: white;
+}
+
+.link:hover {
+  color: rgb(38, 193, 231);
+}
