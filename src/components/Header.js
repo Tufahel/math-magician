@@ -1,20 +1,23 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+import './Header.css';
 
 function Header() {
   return (
     <div>
-      <nav>
-        <h1>Math Magician</h1>
-        <ul>
+      <nav className="navigation">
+        <h1 className="header">Math Magicians</h1>
+        <ul className="links">
           <li>
-            <NavLink to="/">Home</NavLink>
+            <NavLink to="/" className="link">Home</NavLink>
           </li>
+          <li>|</li>
           <li>
-            <NavLink to="/calculator">Calculator</NavLink>
+            <NavLink to="/calculator" className="link">Calculator</NavLink>
           </li>
+          <li>|</li>
           <li>
-            <NavLink to="/quote">Quote</NavLink>
+            <NavLink to="/quote" className="link">Quote</NavLink>
           </li>
         </ul>
       </nav>

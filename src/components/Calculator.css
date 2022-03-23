@@ -1,14 +1,21 @@
+.body {
+  display: flex;
+  justify-content: space-around;
+  margin: 40px 10px;
+}
+
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto auto;
   gap: 2px;
-  background-color: rgb(164, 164, 164);
+  background-color: white;
   padding: 2px;
   margin: 10px;
+  width: 60%;
 }
 
 .grid-container > div {
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: white;
   text-align: center;
   padding: 20px 0;
   font-size: 30px;
@@ -19,8 +26,13 @@ button {
 }
 
 p {
-  padding: 10px;
+  padding: 30px 10px;
   font-size: 30px;
+}
+
+.item {
+  font-size: 25px;
+  font-weight: 700;
 }
 
 .item17 {
@@ -31,8 +43,8 @@ p {
 .item0 {
   grid-column-start: 1;
   grid-column-end: 5;
-  background-color: rgb(164, 164, 164) !important;
-  color: white;
+  background-color: white !important;
+  color: black;
   text-align-last: right;
   margin-right: 2px;
 }
@@ -42,6 +54,15 @@ p {
 .item12,
 .item16,
 .item19 {
-  background-color: rgb(255, 81, 0) !important;
+  background-color: rgb(42, 46, 99) !important;
+  color: white;
+}
+
+.item4:hover,
+.item8:hover,
+.item12:hover,
+.item16:hover,
+.item19:hover {
+  background-color: rgb(51, 57, 151) !important;
   color: white;
 }
