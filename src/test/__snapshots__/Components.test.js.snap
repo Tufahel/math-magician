@@ -1,0 +1,195 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test snapshot for components Create a Caculator snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="body"
+  >
+    <h2>
+      Lets Do Some Math!
+    </h2>
+    <div
+      class="grid-container"
+    >
+      <p
+        class="item0"
+      >
+          
+      </p>
+      <button
+        class="item1 item"
+        type="button"
+      >
+        AC
+      </button>
+      <button
+        class="item2 item"
+        type="button"
+      >
+        +/-
+      </button>
+      <button
+        class="item3 item"
+        type="button"
+      >
+        %
+      </button>
+      <button
+        class="item4 item"
+        type="button"
+      >
+        ÷
+      </button>
+      <button
+        class="item5 item"
+        type="button"
+      >
+        7
+      </button>
+      <button
+        class="item6 item"
+        type="button"
+      >
+        8
+      </button>
+      <button
+        class="item7 item"
+        type="button"
+      >
+        9
+      </button>
+      <button
+        class="item8 item"
+        type="button"
+      >
+        x
+      </button>
+      <button
+        class="item9 item"
+        type="button"
+      >
+        4
+      </button>
+      <button
+        class="item10 item"
+        type="button"
+      >
+        5
+      </button>
+      <button
+        class="item11 item"
+        type="button"
+      >
+        6
+      </button>
+      <button
+        class="item12 item"
+        type="button"
+      >
+        -
+      </button>
+      <button
+        class="item13 item"
+        type="button"
+      >
+        1
+      </button>
+      <button
+        class="item14 item"
+        type="button"
+      >
+        2
+      </button>
+      <button
+        class="item15 item"
+        type="button"
+      >
+        3
+      </button>
+      <button
+        class="item16 item"
+        type="button"
+      >
+        +
+      </button>
+      <button
+        class="item17 item"
+        type="button"
+      >
+        0
+      </button>
+      <button
+        class="item18 item"
+        type="button"
+      >
+        .
+      </button>
+      <button
+        class="item19 item"
+        type="button"
+      >
+        =
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`test snapshot for components Create a Home snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="home"
+  >
+    <h3
+      class="home-title"
+    >
+      Welcome to our page!
+    </h3>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia tempore veritatis error ratione repellat qui, dolorum consequatur mollitia placeat tempora magnam commodi! Ipsa molestiae officiis, unde et porro nisi illo.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate odio quasi veritatis enim non dolor harum sunt, quas ipsam laboriosam dicta repudiandae autem atque, architecto repellat obcaecati? Temporibus, delectus aperiam.
+    </p>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`test snapshot for components Create a Home snapshot 2`] = `
+<DocumentFragment>
+  <div
+    class="home"
+  >
+    <h3
+      class="home-title"
+    >
+      Welcome to our page!
+    </h3>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia tempore veritatis error ratione repellat qui, dolorum consequatur mollitia placeat tempora magnam commodi! Ipsa molestiae officiis, unde et porro nisi illo.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate odio quasi veritatis enim non dolor harum sunt, quas ipsam laboriosam dicta repudiandae autem atque, architecto repellat obcaecati? Temporibus, delectus aperiam.
+    </p>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`test snapshot for components Create a Quote snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="quote-body"
+  >
+    <p>
+      "As far as the laws of mathematics refer to reality, they are not certain, and as far as they are certain, they do not refer to reality."
+      <br />
+      <br />
+      <span
+        class="writer"
+      >
+        — Albert Einstein
+      </span>
+    </p>
+  </div>
+</DocumentFragment>
+`;
